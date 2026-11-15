@@ -16,7 +16,7 @@ Ein konsolenbasiertes IT-Ticket-System, mit dem Supportanfragen erfasst, kategor
 
 ## Screenshot
 
-![IT-Ticket-System](ticket-system.png)
+![IT-Ticket-System](IT-Ticket-System.png)
 
 ## Verwendete Technologien
 
