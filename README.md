@@ -14,6 +14,10 @@ Ein konsolenbasiertes IT-Ticket-System, mit dem Supportanfragen erfasst, kategor
 - Daten dauerhaft in SQLite speichern
 - Hilfeübersicht mit verfügbaren Befehlen anzeigen
 
+## Screenshot
+
+![IT-Ticket-System](ticket-system.png)
+
 ## Verwendete Technologien
 
 - Python 3
